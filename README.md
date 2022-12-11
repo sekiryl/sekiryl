@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**l6174/l6174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am L Lawliet 😄
+### I am a Student and a Game Developer 🧑‍🎓
+### I know Python, Unity Game Development and Linux 🤓
+### I use arch BTW! 🐧
+### Currently working on My Studies 📚
+### Learning C++ 🌱
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some links I want to share:
+- [My Website](https://acepiregames.tk)
+- [My Playstore Page](https://play.google.com/store/apps/dev?id=8977203069628739886)
+- [Youtube Channel](https://www.youtube.com/channel/UCuz2NzCdzBPjcacNGhq27JQ)
