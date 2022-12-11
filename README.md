@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Website [https://acepiregames.tk](https://acepiregames.tk)
 
-- 📫 **l.lawliet6174@gmail.com**
+- 📫 My Email **l.lawliet6174@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
