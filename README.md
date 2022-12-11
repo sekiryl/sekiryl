@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm L Lawliet</h1>
+<h1 align="center">Hi <img src="Hi.gif" width="30px" height="30px">, I'm L Lawliet</h1>
 <h3 align="center">A Student and a Game Developer.</h3>
 
 - 🔭 I’m currently working on **My Studies**
