@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **C++**
 
+- 📎 My Link Tree **https://l6174.carrd.co**
+
 - 👨‍💻 My Website **https://acepiregames.tk**
 
 - 📫 My Email **l.lawliet6174@gmail.com**
