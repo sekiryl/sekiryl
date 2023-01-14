@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📎 My Link Tree: [Click Here](https://l6174.carrd.co)
+- 👤 My Profile: [Click Here](https://l6174.carrd.co)
 
 - 👨‍💻 My Website: [Click Here](https://acepiregames.tk)
 
