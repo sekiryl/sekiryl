@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👤 My Profile: [Click Here](https://l6174.netlify.app)
+- 👤 My Profile: [Click Here](https://l6174.is-a.dev)
 
 - 👨‍💻 My Website: [Click Here](https://acepiregames.tk)
 
