@@ -1,21 +1,16 @@
 <h1 align="center">Hi <img src="assets/Hi.gif" width="30px" height="30px">, I'm L Lawliet</h1>
-<h3 align="center">A Student and a Game Developer.</h3>
+<h3 align="center">A Student and an Indie Game Developer.</h3>
 
 - 🔭 I’m currently working on **My Studies**
 
 - 🌱 I’m currently learning **C++**
 
-- 👤 My Profile:
- 
-  <a href="http://l6174.is-a.dev" target="_blank">![Profile](assets/profile.png)</a>
+- 👤 My Profile: [<img align="center" src="assets/profile.png" width="100px" height="30px">](https://l6174.is-a.dev)
 
-- 👨‍💻 My Website:
- 
-  <a href="http://acepiregames.tk" target="_blank">![Website](assets/website.png)</a>
+- 👨‍💻 My Website: [<img align="center" src="assets/website.png" width="100px" height="30px">](https://acepiregames.tk)
 
-- 📫 My Email:
+- 📫 My Email: [<img align="center" src="assets/email.png" width="80px" height="30px">](mailto:l.lawliet6174@gmail.com)
 
-  <a href="mailto:l.lawliet6174@gmail.com" target="_blank">![Email](assets/email.png)</a>
 
 <h3 align="left">My Interests:</h3>
 
