@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👤 My Profile: [<img align="center" src="assets/profile.png" width="100px" height="30px">](https://l6174.is-a.dev)
+- 👤 My Profile: https://l6174.is-a.dev
 
-- 👨‍💻 My Website: [<img align="center" src="assets/website.png" width="100px" height="30px">](https://acepiregames.tk)
+- 👨‍💻 My Website: https://acepiregames.tk
 
-- 📫 My Email: [<img align="center" src="assets/email.png" width="80px" height="30px">](mailto:l.lawliet6174@gmail.com)
+- 📫 My Email: lawliet@mail.l6174.is-a.dev
 
 
 <h3 align="left">My Interests:</h3>
