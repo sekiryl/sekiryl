@@ -9,7 +9,7 @@
 
 - 👨‍💻 My Website: https://cryogames.netlify.app
 
-- 📫 My Email: lawliet@mail.l6174.is-a.dev
+- 📫 My Email: l6174@proton.me
 
 
 <h3 align="left">My Interests:</h3>
