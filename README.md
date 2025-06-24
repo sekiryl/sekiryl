@@ -1,15 +1,15 @@
-<h1 align="center">Hi <img src="assets/Hi.gif" width="30px" height="30px">, I'm L Lawliet</h1>
-<h3 align="center">A Student and an Indie Game Developer.</h3>
+<h1 align="center">Hi, I'm <code>Sekiryl</code>.</h1>
+<h3 align="center"><code>STUDENT</code> <code>INDIE GAME DEVELOPER</code></h3>
 
 - 🔭 I’m currently working on **My Studies**
 
 - 🌱 I’m currently learning **C++**
 
-- 👤 My Profile: https://l6174.is-a.dev
+- 👤 My Profile: https://sekiryl.is-a.dev
 
 - 👨‍💻 My Website: https://cryogames.netlify.app
 
-- 📫 My Email: contact@l6174.is-a.dev
+- 📫 My Email: hi@sekiryl.is-a.dev
 
 
 <h3 align="left">My Interests:</h3>
