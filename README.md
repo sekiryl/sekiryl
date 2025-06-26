@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm <code>Sekiryl</code>.</h1>
-<h3 align="center"><code>STUDENT</code> <code>INDIE GAME DEVELOPER</code></h3>
+<h1 align="center">Hi, I'm Sekiryl.</h1>
+<h3 align="center"><code>STUDENT</code>  <code>INDIE GAME DEVELOPER</code></h3>
 
 - 🔭 I’m currently working on **My Studies**
 
