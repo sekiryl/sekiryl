@@ -1,26 +1,51 @@
-<h1 align="center">Hi, I'm Sekiryl.</h1>
-<h3 align="center"><code>STUDENT</code>  <code>INDIE GAME DEVELOPER</code></h3>
+<p align="center">
+  <img src="./assets/sekiryl_banner.png" width="100%" alt="Sekiryl Banner"/>
+</p>
 
-- 🔭 I’m currently working on **My Studies**
+<br/>
 
-- 🌱 I’m currently learning **C++**
+<p align="center">
+  <a href="https://sekiryl.is-a.dev">
+    <img src="./assets/button_profile.png" alt="Profile" height="60">
+  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hi@sekiryl.is-a.dev">
+    <img src="./assets/button_contact.png" alt="Contact" height="60">
+  </a>
+</p>
 
-- 👤 My Profile: https://sekiryl.is-a.dev
 
-- 👨‍💻 My Website: https://cryogames.netlify.app
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=25&duration=3000&pause=500&color=E3D8C9&background=231E1C00&center=true&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Sekiryl!;%F0%9F%92%BB+Student+%26+Indie+Game+Dev;%F0%9F%90%A7+I+use+Arch+BTW" alt="Typing SVG" /></a>
+</div>
 
-- 📫 My Email: hi@sekiryl.is-a.dev
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,cpp,cs,python,unity,bash,vim,git&perline=8" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sekiryl&show_icons=true&hide_border=true&bg_color=231e1c&title_color=e3d8c9&text_color=c5b7a3&icon_color=d4af37" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekiryl&layout=compact&hide_border=true&bg_color=231e1c&title_color=e3d8c9&text_color=c5b7a3" />
+</div>
 
 
-<h3 align="left">My Interests:</h3>
+<br />
 
-- 👨‍💻 [Programming](https://reddit.com/r/programming)
+<details>
+<summary><b>⚙️ About Me</b></summary>
+<div align="left">
 
-- 🐧 [Linux](https://reddit.com/r/linux)
-
-- 👨‍🔬 [Chemistry](https://reddit.com/r/chemistry)
-
-- 🔭 [Astronomy](https://reddit.com/r/space)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+🌱 I’m currently learning **C++** <br/>
+🧑‍💻 I like building **what I can’t find** <br/>
+💻 I use **Arch** BTW (Hyprland 🪟) <br/>
+📚 I survive on **Physics**, **Coffee**, and **Shell Scripts** <br/>
+🎮 Favorite Game: `Sekiro: Shadows Die Twice` 🥷 <br/>
+🧪 Fun Fact: I might be more CLI than human
+</details>
+<br /><br />
+<div align="center"> <sub><i>“Keep your code clean and your rice cooker cleaner.”</i></sub> <br /> <sub>Made with ❤️ and <code>vim</code> by Sekiryl</sub> </div>
