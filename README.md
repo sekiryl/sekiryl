@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="https://sekiryl.is-a.dev">
-    <img src="./assets/button_profile.png" alt="Profile" height="60">
+    <img src="./assets/button_profile.png" height="40" alt="Profile"/>
   </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/misc/transparent.png" width="10" height="1"/>
   <a href="mailto:hi@sekiryl.is-a.dev">
-    <img src="./assets/button_contact.png" alt="Contact" height="60">
+    <img src="./assets/button_contact.png" height="40" alt="Contact"/>
   </a>
 </p>
 
@@ -49,3 +49,4 @@
 </details>
 <br /><br />
 <div align="center"> <sub><i>“Keep your code clean and your rice cooker cleaner.”</i></sub> <br /> <sub>Made with ❤️ and <code>vim</code> by Sekiryl</sub> </div>
+
