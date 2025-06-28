@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://sekiryl.is-a.dev">
+  <a href="https://sekiryl.is-a.dev/?r=gh">
     <img src="./assets/button_profile.png" height="40" alt="Profile"/>
   </a>
   <img src="assets/misc/transparent.png" width="10" height="1"/>
