@@ -17,7 +17,20 @@
 <br />
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=25&duration=3000&pause=500&color=E3D8C9&background=231E1C00&center=true&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Sekiryl!;%F0%9F%92%BB+Student+%26+Indie+Game+Dev;%F0%9F%90%A7+I+use+Arch+BTW" alt="Typing SVG" /></a>
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=25&duration=3000&pause=500&color=E3D8C9&background=231E1C00&center=true&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Sekiryl!;%F0%9F%92%BB+Student+%26+Indie+Game+Dev;%F0%9F%90%A7+I+use+Arch+BTW"
+  />
+  <source 
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=25&duration=3000&pause=500&color=231E1C&background=231E1C00&center=true&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Sekiryl!;%F0%9F%92%BB+Student+%26+Indie+Game+Dev;%F0%9F%90%A7+I+use+Arch+BTW"
+  />
+  <img 
+    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=25&duration=3000&pause=500&color=E3D8C9&background=231E1C00&center=true&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Sekiryl!;%F0%9F%92%BB+Student+%26+Indie+Game+Dev;%F0%9F%90%A7+I+use+Arch+BTW"
+  />
+</picture>
 </div>
 
 <br/>
