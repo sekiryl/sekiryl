@@ -36,22 +36,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,cpp,cs,python,unity,bash,vim,git&perline=8" />
+  <img src="https://skills.syvixor.com/api/icons?perline=7&i=archlinux,neovim,cpp,python,html,css3,javascript,unity,csharp,bash,git,vercel,cloudflare,gimp" />
 </div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sekiryl&show_icons=true&hide_border=true&bg_color=231e1c&title_color=e3d8c9&text_color=c5b7a3&icon_color=d4af37" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekiryl&layout=compact&hide_border=true&bg_color=231e1c&title_color=e3d8c9&text_color=c5b7a3" />
-</div>
-
 
 <br />
 
 <details>
-<summary><b>⚙️ About Me</b></summary>
+<summary><b>🐧 About Me</b></summary>
 <div align="left">
 
 🌱 I’m currently learning **C++** <br/>
