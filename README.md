@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="./assets/sekiryl_banner.png" width="100%" alt="Sekiryl Banner"/>
+  <img src="./assets/banner.png" width="100%" alt="Sekiryl Banner"/>
 </p>
 
 <br/>
 
 <p align="center">
   <a href="https://sekiryl.is-a.dev">
-    <img src="./assets/button_profile.png" height="40" alt="Profile"/>
+    <img src="./assets/profile.png" height="40" alt="Profile"/>
   </a>
   <img src="assets/misc/transparent.png" width="10" height="1"/>
   <a href="mailto:hi@sekiryl.is-a.dev">
-    <img src="./assets/button_contact.png" height="40" alt="Contact"/>
+    <img src="./assets/contact.png" height="40" alt="Contact"/>
   </a>
 </p>
 
